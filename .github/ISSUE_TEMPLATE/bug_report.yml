@@ -1,0 +1,54 @@
+name: Hata bildirimi
+description: Şablonlarda, CI'da veya kanıt iş akışında bir hata bildir.
+title: "[Hata]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Özet
+      description: Sorun nedir?
+      placeholder: Problemi net biçimde tarif edin.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Beklenen davranış
+      description: Ne olmasını bekliyordunuz?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Gerçekleşen davranış
+      description: Ne oldu?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Yeniden üretme adımları
+      description: Minimum adımlarla anlatın.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: false
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Kanıt / loglar
+      description: İlgili log, ekran görüntüsü veya dosya/ satır linkleri.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Kontrol listesi
+      options:
+        - label: main branch'in en güncel hâlinde kontrol ettim, sorun sürüyor.
+          required: true
+        - label: Mevcut issue'larda benzerini aradım, mükerrer değil.
+          required: true
